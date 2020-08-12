@@ -11,5 +11,5 @@ Hey, my name is Rawallon! I am a aspiring front-end developer and currently live
 
 ## Contact me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rawallon_Cardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rawallon-cardoso-380ba01b3/)](https://www.linkedin.com/in/rawallon-cardoso-380ba01b3/)
-[![Gmail Badge](https://img.shields.io/badge/-rawallon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rawallon@gmail.com)](rawallon@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rawallon-cardoso-380ba01b3/)](https://www.linkedin.com/in/rawallon-cardoso-380ba01b3/)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rawallon@gmail.com)](rawallon@gmail.com)
