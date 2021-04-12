@@ -1,4 +1,5 @@
 
+
 ### Hi there 👋
 Hey, my name is Rawallon! I've graduated in Software Analysis and Development a while ago and have programmed in a variety of languages, from Java to C# to (even) Lua. But currently, I am looking to start my professional career in web front-end. I'm always seeking new experiences to expand my knowledge, so you can hit me up anytime!
 
@@ -26,6 +27,8 @@ Hey, my name is Rawallon! I've graduated in Software Analysis and Development a 
 	<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </div>
 
+<br />
+
 #### I'm looking to learning:
 <div style="display:flex; align-items: center;">
   <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
@@ -35,6 +38,8 @@ Hey, my name is Rawallon! I've graduated in Software Analysis and Development a 
 	<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
   <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 </div>
+
+<br />
 
 ## Some repos to check out:
  - [Uplay Clone](https://github.com/Rawallon/uplay-clone)
