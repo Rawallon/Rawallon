@@ -1,43 +1,51 @@
-
-
 ### Hi there 👋
 Hey, my name is Rawallon! I've graduated in Software Analysis and Development a while ago and have programmed in a variety of languages, from Java to C# to (even) Lua. But currently, I am looking to start my professional career in web front-end. I'm always seeking new experiences to expand my knowledge, so you can hit me up anytime!
 
 ##### About me:
-:cupid:I'm really passionate about technology
-<br/>:purple_heart: I'm totally in love Front end development
+
+:cupid:I'm really passionate about technology.
+<br/>:purple_heart: I'm totally in love Front end development.
 <br/>:seedling: I’m very fond of the MERN Stack.
-<br/>:pencil: In constant learning
-<br/> :computer: I'm avaliable to collaborate in projects that uses JavaScript
-<br/>:speech_balloon:&nbsp;I've been programming since sites were made of tables
+<br/>:pencil: In constant learning.
+<br/>:handshake: I'm avaliable to collaborate in projects that uses JavaScript.
+<br/>:man_technologist: I've been programming since sites were made of tables.
+<br/>:speech_balloon: Inspiring quote: May your choices reflect your hopes, not your fears.
 
-#### Languages I'm confortable:
-<div style="display:flex; align-items: center;">
-	<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-	<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-	<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-	<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-	<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-	<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
-		<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-	<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img align="left" alt="NextJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" />
-	<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-		<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-	<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</div>
+##### Languages/Tools I'm confortable with:
 
+<p align="left">
+ <a href="https://www.w3.org/html/" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+ <a href="https://sass-lang.com" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+ <a href="https://getbootstrap.com" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://nodejs.org" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+ <a href="https://expressjs.com" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+ <a href="https://reactjs.org/" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://redux.js.org" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+ <a href="https://nextjs.org/" target="_blank"> <img width="26px" height="auto" align="left" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
+ <a href="https://jestjs.io" target="_blank"> <img width="26px" height="auto" align="left" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+ <a href="https://www.mongodb.com/" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+ </p>
 <br />
 
-#### I'm looking to learning:
-<div style="display:flex; align-items: center;">
-  <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-  <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-  <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-  <img align="left" alt="Github Actions" width="26px" src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" />
-	<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-  <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-</div>
+#### Languages/Tools that are on my radar:
+
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+ <a href="https://www.cypress.io" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
+ <a href="https://www.docker.com/" target="_blank"> <img width="26px" height="auto" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img width="26px" height="auto" align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+ <a href="https://graphql.org" target="_blank"> <img width="26px" height="auto" align="left" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+ <a href="https://kafka.apache.org/" target="_blank"> <img width="26px" height="auto" align="left" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
+ <a href="https://kubernetes.io" target="_blank"> <img width="26px" height="auto" align="left" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+ <a href="https://reactnative.dev/" target="_blank"> <img width="26px" height="auto" align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+ <a href="https://www.rabbitmq.com" target="_blank"> <img width="26px" height="auto" align="left" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
+ <a href="https://tailwindcss.com/" target="_blank"> <img width="26px" height="auto" align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+ </p>
+
 
 <br />
 
@@ -45,9 +53,10 @@ Hey, my name is Rawallon! I've graduated in Software Analysis and Development a 
  - [Uplay Clone](https://github.com/Rawallon/uplay-clone)
  - [Neumorphic CSS Generator](https://github.com/Rawallon/Neumorphic-CSS-Generator)
  - [Currency Converter](https://github.com/Rawallon/currency-converter)
- - [E-commerce using React and Redux (WIP)](https://github.com/Rawallon/Ecommerce-react-redux-app)
+ - [E-commerce using React and Redux](https://github.com/Rawallon/Ecommerce-react-redux-app)
+ - [Trello-lite clone (WIP)](https://github.com/Rawallon/kanban-board-next)
 
 ## Contact me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rawallon-cardoso-380ba01b3/)](https://www.linkedin.com/in/rawallon-cardoso-380ba01b3/)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rawallon@gmail.com)](rawallon@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rawallon-cardoso-380ba01b3/)](https://www.linkedin.com/in/rawallon/)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rawallon@gmail.com)](mailto:rawallon@gmail.com)
