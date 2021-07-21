@@ -50,11 +50,11 @@ Hey, my name is Rawallon! I've graduated in Software Analysis and Development a 
 <br />
 
 ## Some repos to check out:
+ - [E-commerce using React and Redux](https://github.com/Rawallon/Ecommerce-react-redux-app)
+ - [Trello clone using Next(WIP)](https://github.com/Rawallon/trello-clone-next)
  - [Uplay Clone](https://github.com/Rawallon/uplay-clone)
  - [Neumorphic CSS Generator](https://github.com/Rawallon/Neumorphic-CSS-Generator)
  - [Currency Converter](https://github.com/Rawallon/currency-converter)
- - [E-commerce using React and Redux](https://github.com/Rawallon/Ecommerce-react-redux-app)
- - [Trello-lite clone (WIP)](https://github.com/Rawallon/kanban-board-next)
 
 ## Contact me:
 
